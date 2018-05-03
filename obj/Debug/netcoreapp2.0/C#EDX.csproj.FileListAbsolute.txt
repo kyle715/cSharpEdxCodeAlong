@@ -1,0 +1,10 @@
+C:\Users\Owner-14\Desktop\C#EDX\obj\Debug\netcoreapp2.0\C#EDX.csproj.CoreCompileInputs.cache
+C:\Users\Owner-14\Desktop\C#EDX\obj\Debug\netcoreapp2.0\C#EDX.AssemblyInfoInputs.cache
+C:\Users\Owner-14\Desktop\C#EDX\obj\Debug\netcoreapp2.0\C#EDX.AssemblyInfo.cs
+C:\Users\Owner-14\Desktop\C#EDX\bin\Debug\netcoreapp2.0\C#EDX.deps.json
+C:\Users\Owner-14\Desktop\C#EDX\bin\Debug\netcoreapp2.0\C#EDX.runtimeconfig.json
+C:\Users\Owner-14\Desktop\C#EDX\bin\Debug\netcoreapp2.0\C#EDX.runtimeconfig.dev.json
+C:\Users\Owner-14\Desktop\C#EDX\bin\Debug\netcoreapp2.0\C#EDX.dll
+C:\Users\Owner-14\Desktop\C#EDX\bin\Debug\netcoreapp2.0\C#EDX.pdb
+C:\Users\Owner-14\Desktop\C#EDX\obj\Debug\netcoreapp2.0\C#EDX.dll
+C:\Users\Owner-14\Desktop\C#EDX\obj\Debug\netcoreapp2.0\C#EDX.pdb
