@@ -10,6 +10,7 @@ namespace C_EDX
             Console.WriteLine(myMachine.Location);
             Console.WriteLine(myMachine.Make);
             Console.WriteLine(myMachine.Model);
+            Console.WriteLine(myMachine.Model);
             myMachine.MakeCappuccino();
         }
     }
